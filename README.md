@@ -1,8 +1,8 @@
 # NYC Water Consumption & Billing Analysis (2013–2025)
-**Course:** Big Data Analytics | University of Delaware  
-**Team:** Rahul Chauhan, Kiran  
-**Tools:** Power BI, Power Query, SQL, Excel  
-**Data Source:** [NYC Open Data – Water Consumption & Cost](https://data.cityofnewyork.us/)
+Course: Big Data Analytics | University of Delaware  
+Team: Rahul Chauhan, Kiran  
+Tools: Power BI, Power Query, SQL, Excel  
+Data Source: [NYC Open Data – Water Consumption & Cost](https://data.cityofnewyork.us/)
 
 ---
 
@@ -44,7 +44,7 @@ Key features: Consumption (HCF), Current Charges, Borough, Rate Class, Billing D
 | Prescriptive: Recommendations for billing policy reform |
 
 ### Regression Results
-- R² = 0.376** — Consumption alone explains only ~38% of billing variance
+- R² = 0.376 — Consumption alone explains only ~38% of billing variance
 - Estimated Read Coefficient: 588.83** (p < 0.001) — strong link between estimated reads and inflated charges
 
 
@@ -56,9 +56,9 @@ Key features: Consumption (HCF), Current Charges, Borough, Rate Class, Billing D
 
 
 ## Recommendations
-1. Invest in Smart/AMR Meters** — reduce estimated reads and improve data quality
-2. Build a Monthly Anomaly Review Dashboard** — monitor and recover misbilled revenue
-3. Standardize Borough Billing Policies** — address cost/HCF disparities
+1. Invest in Smart/AMR Meters — reduce estimated reads and improve data quality
+2. Build a Monthly Anomaly Review Dashboard — monitor and recover misbilled revenue
+3. Standardize Borough Billing Policies — address cost/HCF disparities
 
 ---
 
