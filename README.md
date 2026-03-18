@@ -62,7 +62,7 @@ Key features: Consumption (HCF), Current Charges, Borough, Rate Class, Billing D
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ├── data/               # Cleaned dataset (CSV)
 ├── powerbi/            # Power BI .pbix dashboard file
